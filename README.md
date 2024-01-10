@@ -13,30 +13,34 @@ L'application permettre de :
 ## App Screenshot :
 
 ###  Génération de token à partir de JWT
-
-![1](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/649f5d79-8cf3-4f3e-9169-243c3231bc03)
+![1](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/50f19ee3-351b-4ba6-849c-b99f0a2c21a2)
 
 ### Login page :
 
-![2](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/60cc79cd-616b-489f-b5f0-d4cc8baa49a9)
+![2](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/6ee22a87-f9fc-4039-9fdb-bfc486650ca1)
 
 ### L'administrateur a la possibilité d'ajouter un nouveau produit :
 
-![3](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/e8423270-836a-46cd-baac-c4359d975e14)
+![3](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/997a65ce-8259-4f34-a10c-adbafc31411c)
+
 
 ### L'administrateur a la possibilité de consulter, modifier et supprimer les produits :
 
-![4](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/e78f8576-0df2-49d9-a437-d58b955a5701)
+![4](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/1e3cec30-1cc4-4c85-bd41-2e122378f3c5)
+
 
 ### Teste la fonction de recherche :
 
-![5](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/9621786f-ca90-46bf-970f-262b6531b446)
+![5](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/c5af4df7-3f62-4999-ad92-d598146eccea)
+
 
 ### Un utilisateur n'a pas le droit d'ajouter un produit :
 
-![6](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/b7b366b5-bdca-4b75-bf32-c2c344a7d380)
+![6](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/635d4049-73cd-4d99-ae06-e7ba719d4ab4)
+
 
 ### Un utilisateur peut consulter les produits, mais il ne peut ni les modifier ni les supprimer :
 
-![7](https://github.com/aymanzinabidine14/Angular-Totale-Demo/assets/128410611/168c4ff2-d8dc-4001-b150-09eb4984cea6)
+![7](https://github.com/MohamedHanif1/Angular-Totale-Demo-master/assets/106152378/5f87961f-2ec9-4e07-9d26-af78d950a7ac)
+
 
